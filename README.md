@@ -6,10 +6,10 @@ This is one of the first student front-end projects, although it is rough but ha
  2.**教育背景**<br>
        |-大学课程<br>
        |-实践记录<br>
--3.**日常生活**<br>
- -4.**兴趣爱好**<br>
--5.**我的日志**<br>
--6.**好友留言**<br>
+3.**日常生活**<br>
+ 4.**兴趣爱好**<br>
+5.**我的日志**<br>
+6.**好友留言**<br>
 #### some sample lists are as follow：
 ![image](https://github.com/MinjieY/webfinal_exam/assets/96962656/2ab4a1cb-8331-465b-9804-6d0036d5e04d)
 ![image](https://github.com/MinjieY/webfinal_exam/assets/96962656/beb86b52-0ec9-4eca-902c-2575da3d93af)
