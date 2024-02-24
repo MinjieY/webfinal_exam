@@ -1,12 +1,14 @@
 ## # A web course work, fully based on <a>html5<a> and<a> css<a> personal page
 <a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web in 2022 grade 2</a>
 ### main
--网站首页<br>
--教育背景<br>
--日常生活<br>
--兴趣爱好<br>
--我的日志<br>
--好友留言<br>
+## -网站首页<br>
+## -教育背景<br>
+### -大学课程<br>
+### -实践记录<br>
+## -日常生活<br>
+## -兴趣爱好<br>
+## -我的日志<br>
+## -好友留言<br>
 
 ![image](https://github.com/MinjieY/webfinal_exam/assets/96962656/2ab4a1cb-8331-465b-9804-6d0036d5e04d)
 
