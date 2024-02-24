@@ -1,6 +1,6 @@
 ## # A web course work, fully based on <a>html5<a> and<a> css<a> personal page
 <a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web_course final in 2022 grade 2</a>
-This is one of the first student front-end projects, although it is rough but has the value of retrospection and reflection, so it is put here for reference.
+<p>This is one of the first student front-end projects, although it is rough but has the value of retrospection and reflection, so it is put here for reference.</p>
 ### -main
  1.**网站首页**<br>
  2.**教育背景**<br>
