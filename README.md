@@ -1,12 +1,15 @@
-## # A web course work, based on <a>html5<a> and<a> css<a> personal page
+## # A web course work, fully based on <a>html5<a> and<a> css<a> personal page
 <a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web in 2022 grade 2</a>
 ### main
--网站首页
--教育背景
--日常生活
--兴趣爱好
--我的日志
--好友留言
+-网站首页<br>
+-教育背景<br>
+-日常生活<br>
+-兴趣爱好<br>
+-我的日志<br>
+-好友留言<br>
+
+![image](https://github.com/MinjieY/webfinal_exam/assets/96962656/2ab4a1cb-8331-465b-9804-6d0036d5e04d)
+
 You can use the [editor on GitHub](https://github.com/kjdksk/webfinal_exam/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
