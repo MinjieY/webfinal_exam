@@ -1,5 +1,12 @@
-## Welcome to GitHub Pages
-
+## # A web course work, based on <a>html5<a> and<a> css<a> personal page
+<a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web in 2022 grade 2</a>
+### main
+-网站首页
+-教育背景
+-日常生活
+-兴趣爱好
+-我的日志
+-好友留言
 You can use the [editor on GitHub](https://github.com/kjdksk/webfinal_exam/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
