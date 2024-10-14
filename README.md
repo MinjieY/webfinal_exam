@@ -2,7 +2,7 @@
 **we can click to preview the link**-><a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web_course final in 2022 grade 2</a>
 <p>This is one of the first student front-end projects, although it is rough but has the value of retrospection and reflection, so it is put here for reference.</p>*Due to personal privacy, personal resumes and private information have been deleted.  
 
-### main
+## main
  1.**网站首页**<br>
  2.**教育背景**<br>
       <p> |-大学课程</p>
