@@ -1,7 +1,7 @@
 ## A web course work, fully based on <a>html5<a> and<a> css<a> personal page
 这是一个完全基于CSS+html的个人网页作业，包含表单、列表、跳转、元素位置的各种摆放等等布局和基础知识，供课程展示。
 共两天完成，美观度和网页架构没有太多考虑，仅供学习参考
-<br>最新blog链接：<a href="[https://minjiey.github.io/webfinal_exam/html/main.htm](https://minjiey.github.io/)" target="_blank"></a>
+<br>最新blog链接：<a href="https://minjiey.github.io/" target="_blank"></a>
 **we can click to preview the link**网页链接-><a href="https://minjiey.github.io/webfinal_exam/html/main.html" target="_blank">minjie.ying's homepage for web_course final in 2022 grade 2</a>
 <p>This is one of the first student front-end projects, although it is rough but has the value of retrospection and reflection, so it is put here for reference.</p>*Due to personal privacy, personal resumes and private information have been deleted.  
 
